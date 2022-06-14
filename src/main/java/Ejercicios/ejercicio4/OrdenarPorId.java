@@ -8,7 +8,7 @@ public class OrdenarPorId implements IEstrategiaOrdenamiento{
     @Override
     public void ordenar(ArrayList<Libro> libros) {
 
-        Collections.sort(libros);
+        //Collections.sort(libros);
 
     }
 
