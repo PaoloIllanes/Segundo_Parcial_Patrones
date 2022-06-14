@@ -1,0 +1,5 @@
+4. 15%(Strategy) Se tiene una base de datos que contiene libros(id, titulo, categoria), se
+desea tener 3 tipos de ordenamiento de esta base de datos
+estrategia 1---> ordenar por id
+estrategia 2 ---> ordenar por titulo
+estrategia 3 --->ordenar por categoria
