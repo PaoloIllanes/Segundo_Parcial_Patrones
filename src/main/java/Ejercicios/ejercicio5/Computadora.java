@@ -39,4 +39,7 @@ public class Computadora {
     public void setProgramasAbiertos(ArrayList<String> programasAbiertos) {
         this.programasAbiertos = programasAbiertos;
     }
+    public void request(){
+        this.state.handler(this);
+    }
 }
